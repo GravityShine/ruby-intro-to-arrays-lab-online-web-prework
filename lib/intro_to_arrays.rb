@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def first_element
-  ["Yo", "Sup`"]
-  .index("Yo")
+  array_arguement = ["Yo", "Sup`", "Wazza"," U solid?"]
+  array_arguement[0]
 end
