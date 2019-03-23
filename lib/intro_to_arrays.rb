@@ -33,6 +33,6 @@ def last_element_with_array_methods(array)
 end
 
 def length_of_array(array)
-  array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  array = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
   array.length
 end
