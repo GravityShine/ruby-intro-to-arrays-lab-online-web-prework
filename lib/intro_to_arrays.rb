@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def first_element
-["Yo", "Sup`"]
-.first
+  ["Yo", "Sup`"]
+  .index("Yo")
 end
