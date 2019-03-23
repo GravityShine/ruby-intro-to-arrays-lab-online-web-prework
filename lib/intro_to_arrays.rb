@@ -8,5 +8,5 @@ end
 
 def first_element
   array_arguement = ["Yo", "Sup`", "Wazza"," U solid?"]
-  array_arguement.first
+  array_arguement[1]
 end
