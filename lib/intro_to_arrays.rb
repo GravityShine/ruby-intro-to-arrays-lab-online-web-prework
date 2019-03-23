@@ -1,1 +1,3 @@
-@my_new_array = []
+def new_array
+[]
+end
