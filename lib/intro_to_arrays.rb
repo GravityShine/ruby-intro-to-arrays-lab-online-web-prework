@@ -7,6 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-("Welcome to New York")
+taylor_swift=["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 end
