@@ -1,3 +1,3 @@
 def my_new_array
-sam= []
+sam = []
 end
