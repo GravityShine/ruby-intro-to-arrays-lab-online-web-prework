@@ -23,6 +23,6 @@ array.last
 end
 
 def first_element_with_array_methods(array)
-  array = = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   array.first
 end
