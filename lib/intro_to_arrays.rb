@@ -22,7 +22,7 @@ array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 array.last
 end
 
-def first_element(array)
+def first_element_with_array_methods(array)
   array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   array.first
 end
