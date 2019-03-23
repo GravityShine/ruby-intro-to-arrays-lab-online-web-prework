@@ -8,5 +8,5 @@ end
 
 def first_element
 first_element = ["Yo", "Sup`"]
-first_element[0]
+first_element.first
 end
